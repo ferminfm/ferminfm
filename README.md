@@ -1,4 +1,4 @@
-# Fermín Franco-Medrano
+# Fermín Franco
 
 **PhD computational scientist working in CFD, multiphase flow, scientific computing, and engineering AI evaluation.**
 
