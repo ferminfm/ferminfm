@@ -1,76 +1,67 @@
-# Fermín Franco
+# Fermín Franco-Medrano
 
-**PhD computational scientist working in CFD, multiphase flow, scientific computing, and engineering AI evaluation.**
+**Computational scientist and applied mathematician working across physical modeling, scientific software, data/AI, and technical decision-making.**
 
-Based between Japan and Mexico, with research, teaching, and industrial-collaboration experience in fluid mechanics, atomization, numerical modeling, scientific software, and technical education. I build and review reproducible computational workflows, with particular attention to physical consistency, numerical assumptions, traceable evidence, and clearly documented model limits.
+My foundation combines a PhD in Mathematics from Kyushu University, an M.Sc. in Applied Mathematics, and undergraduate training in Applied Mathematics and Physics. Over more than a decade, I have worked across international research, university teaching, technical consulting, and industrial collaboration in Japan and Mexico.
 
-Selected public work: [Ideal Momentum Jet Explorer](https://github.com/ferminfm/ideal-momentum-jet-explorer) · [VisualBasilisk](https://github.com/ferminfm/visualbasilisk) · [DualSPHysics Visualization Pipeline](https://github.com/ferminfm/dualsphysics-visualization-pipeline)
+I translate complex physical and industrial problems into models, software, data, and defensible technical decisions. That means moving from equations to numerical workflows, from simulations and measurements to well-supported conclusions, and from specialist detail to clear technical communication for researchers, engineers, students, and decision-makers.
 
-## Technical focus
+## What I bring
 
-- Computational fluid dynamics and finite-volume reasoning
-- Multiphase flow, liquid jets, sprays, and atomization
-- OpenFOAM-oriented VOF diagnostics and CPU/MPI workflows
-- Scientific model verification and physical-consistency review
-- Engineering AI evaluation, solution review, and rubric-based technical assessment
-- Python/Linux automation and reproducible scientific workflows
-- Scientific visualization using Blender, VTK, Basilisk, and DualSPHysics
-- Finite-element modeling and numerical simulation
+- **Mathematical and physical depth:** experience with PDE/ODE models, continuum mechanics, dynamical systems, transport phenomena, numerical methods, and physically grounded interpretation.
+- **Theory-to-software execution:** the ability to formulate a model, implement computational tools, analyze results, visualize behavior, and document a reproducible path from assumptions to conclusions.
+- **Verification and evidence discipline:** careful review of equations, units, discretization choices, numerical consistency, model assumptions, provenance, and the limits of available evidence.
+- **Research, industry, and teaching perspective:** international research appointments, full-time faculty work, industrial projects, consulting, curriculum development, and technical mentoring.
+- **Quantitative judgment:** data analysis, applied statistics, design of experiments, statistical process control, Six Sigma, and evidence-based industrial decision support.
+- **Cross-cultural technical communication:** professional activity across Japan and Mexico, working in Spanish, English, and Japanese and communicating across disciplines, institutions, and cultures.
+
+## Areas of work
+
+- **Scientific computing and mathematical modeling:** scientific programming, PDE/ODE models, numerical analysis, dynamical systems, reproducible computation, visualization, and technical reporting.
+- **Physical simulation:** CFD, finite-element and finite-volume methods, multiphase flow, jets, sprays, atomization, transport, SPH workflows, biomedical and active-fluid modeling, and industrial or materials-related problems.
+- **Data and quantitative decisions:** analysis of experimental and simulated data, regression and model fitting, applied statistics, process improvement, and translation of quantitative evidence into practical recommendations.
+- **Scientific AI and model reliability:** engineering AI evaluation, review of AI-generated technical solutions, physical-consistency checks, model-assumption auditing, and reliable use of AI-assisted scientific workflows.
+- **Technical education and communication:** university teaching, curriculum and assessment design, reproducible documentation, and developer-facing explanations that connect theory, computation, and use.
+- **Japan–Mexico collaboration:** research and industrial coordination across institutions and cultures, supported by multilingual technical communication.
 
 ## Featured public work
 
-### [Ideal Momentum Jet Explorer](https://github.com/ferminfm/ideal-momentum-jet-explorer)
+### [Ideal Momentum Jet Explorer](https://github.com/ferminfm/ideal-momentum-jet-explorer) · [Live application](https://ferminfm.github.io/ideal-momentum-jet-explorer/)
 
-An interactive scientific-computing application for exploring reduced-order models of circular and non-circular atomizing jets. The React/TypeScript implementation runs entirely in the browser and supports normalized research controls as well as a dimensional engineering mode. It provides nondimensional summaries, heuristic applicability screening, local CFD/data overlays, shareable cases, CSV and solver-agnostic configuration exports, and browser-generated technical reports.
-
-The project treats overlays as comparison aids rather than validation evidence and makes the reduced-order model's applicability checks and limitations explicit. It is an exploratory research and education tool, not a solver-ready CFD case generator or validated engineering-design package.
-
-[Open the live application](https://ferminfm.github.io/ideal-momentum-jet-explorer/).
+A React/TypeScript scientific-computing application that turns a reduced-order jet model into an interactive browser workflow with normalized and dimensional modes, engineering summaries, data overlays, and reproducible exports. It demonstrates the path from mathematical formulation to inspectable software, visualization, and technical reporting.
 
 ### [VisualBasilisk](https://github.com/ferminfm/visualbasilisk)
 
-A source-first Python CLI bridge from Basilisk VOF interface data to reproducible review and headless Blender workflows. It parses facet polygons and frame manifests, checks frame completeness and manifest consistency, prepares review and render plans, and supports a bounded headless Blender path.
-
-The repository includes schemas, synthetic fixtures, smoke tests, and provenance controls. Its scope is deliberately modest: it demonstrates a reproducible interface-data bridge and review workflow, not a CFD solver, predictive spray model, or scientific-validation package.
+A source-first Python CLI bridge from Basilisk VOF facet and manifest data to consistency checks, review artifacts, synthetic test fixtures, and headless Blender workflows. It demonstrates compact scientific data contracts, provenance controls, testing, and reproducible visualization handoffs.
 
 ### [DualSPHysics Visualization Pipeline](https://github.com/ferminfm/dualsphysics-visualization-pipeline)
 
-A reproducible scientific-visualization workflow connecting DualSPHysics CUDA/SPH output, bounded VTK exports, Python tooling, and headless Blender rendering. The public repository documents the path from small solver examples through particle or reconstructed-surface views to reviewable images and video, while keeping large generated outputs outside Git.
+A scientific-visualization workflow connecting DualSPHysics CUDA/SPH output, bounded VTK processing, Python tooling, and headless Blender rendering. It demonstrates reproducible solver-to-visualization workflow design while keeping generated simulation and media artifacts separate from source code.
 
-This work demonstrates GPU-to-visualization workflow design, legacy VTK parsing, portable rendering, and careful communication of simulation limits. It is a scientific-visualization portfolio project with documented scope and limitations.
+Each project documents its assumptions, reproducibility path, and validation boundaries.
 
-## CFD and scientific-computing evidence
+## Research, industry, and teaching background
 
-- OpenFOAM v2406 / `interFoam` project work; VOF diagnostics; CPU/MPI workflow; topology audit; basic-to-intermediate OpenFOAM workflow familiarity
-- VOF interface extraction and connected-component/topology diagnostics
-- Deliberate serial and decomposed CPU/MPI case workflows
-- Finite-volume and finite-element modeling for fluid, transport, and applied-mathematics problems
-- Multiphase-flow, liquid-jet, spray, atomization, and SPH simulation experience
-- Python post-processing, numerical checks, automated regression testing, and reproducible reports
-- Solution verification, model-assumption auditing, documented limitations, and technical review
-- Engineering challenge design and evaluation of AI-generated technical solutions
+- PhD in Mathematics, Kyushu University; M.Sc. in Applied Mathematics; undergraduate background in Applied Mathematics and Physics.
+- Collaborating Researcher / National Researcher (SNII-SECIHTI), UABC Ensenada Campus, Ensenada, Mexico.
+- Previous research experience at Kyushu University and Osaka University in computational fluid mechanics, industrial mathematical modeling, biomedical simulation, and active-fluid systems.
+- Former Full-Time Professor in Applied Mathematics and Data Science at UABC, with teaching and mentoring across numerical methods, scientific computing, simulation, data science, and applied mathematics.
+- Industrial and applied work involving automotive systems, steel and atomization, sprays, biomedical modeling, statistical quality, and process improvement.
+- Consulting and technical-education experience spanning scientific, engineering, industrial, and cross-border settings.
 
-The OpenFOAM diagnostic source package is available for private technical review on request.
+## Current directions
 
-## Engineering AI evaluation
+I am extending this foundation toward scientific AI/ML for physical systems, engineering AI evaluation and technical reliability, reproducible AI-assisted scientific workflows, and developer-facing tools that connect simulation, data, and domain reasoning. These are active growth areas grounded in established work in modeling, numerical methods, evidence review, and scientific software.
 
-My engineering AI-evaluation work combines domain reasoning with structured technical assessment. Relevant activities include designing CFD and numerical-methods challenges, reviewing prompts and generated answers, checking equations and units, testing physical consistency, identifying hidden or unsupported assumptions, evaluating numerical-method choices, and applying explicit rubrics.
+## Tools and working languages
 
-The same discipline carries into scientific software: separate the governing model from its implementation, distinguish verification from validation, test reproducible claims, and state where available evidence stops. This approach is useful for technical review, dataset and rubric development, and evaluation of AI-generated solutions in engineering and applied mathematics.
+**Scientific programming and data:** Python, NumPy, SciPy, Jupyter · C/C++ · Fortran · MATLAB/Octave · TypeScript/React
 
-## Professional background
+**Simulation and modeling:** OpenFOAM · FreeFEM++ · Basilisk · DualSPHysics · Particleworks · ANSYS Fluent (occasional use)
 
-- Collaborating Researcher / National Researcher (SNII-SECIHTI), UABC Ensenada Campus, Ensenada, Mexico
-- Former Full-Time Professor, Rank A — Data Science Program, UABC
-- Full-Time Professor, Rank A — Applied Mathematics Program, UABC, February 2020–June 2023
-- Research experience at Kyushu University and Osaka University in Japan
-- Industrial applied-mathematics collaboration involving automotive engineering, steel and atomization, sprays, and process improvement
-- Professional work across Japan and Mexico, including technical education and cross-cultural collaboration
-- English, Spanish, and Japanese
+**Visualization and workflow:** Blender · VTK · Git/GitHub · GNU/Linux · LaTeX
 
-## Tools
-
-Python · C/C++ · Fortran · OpenFOAM · FreeFEM++ · Basilisk · DualSPHysics · Particleworks · ANSYS Fluent (occasional use) · Blender · VTK · Git/GitHub · GNU/Linux · LaTeX
+**Languages:** Spanish · English · Japanese
 
 ## Research and professional links
 
@@ -79,3 +70,8 @@ Python · C/C++ · Fortran · OpenFOAM · FreeFEM++ · Basilisk · DualSPHysics 
 - [ORCID](https://orcid.org/0000-0003-3115-0848)
 - [Researchmap](https://researchmap.jp/francomedrano?lang=en)
 - [GitHub repositories](https://github.com/ferminfm?tab=repositories)
+- [Ideal Momentum Jet Explorer live application](https://ferminfm.github.io/ideal-momentum-jet-explorer/)
+
+## Collaboration
+
+I welcome focused collaboration in research, applied science, scientific software, engineering AI, technical education, industrial modeling, and Japan–Mexico initiatives where rigorous computation and clear technical communication matter.
