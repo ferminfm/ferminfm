@@ -2,7 +2,7 @@
 
 **Computational scientist and applied mathematician working across physical modeling, scientific software, data/AI, and technical decision-making.**
 
-My foundation combines a PhD in Mathematics from Kyushu University, an M.Sc. in Applied Mathematics, and undergraduate training in Applied Mathematics and Physics. Over more than a decade, I have worked across international research, university teaching, technical consulting, and industrial collaboration in Japan and Mexico.
+My foundation combines a PhD in Mathematics from Kyushu University, an M.Sc. in Applied Mathematics, and B.Sc. degrees in Applied Mathematics and Physics. Over more than a decade, I have worked across international research, university teaching, technical consulting, and industrial collaboration in Japan and Mexico.
 
 I translate complex physical and industrial problems into models, software, data, and defensible technical decisions. That means moving from equations to numerical workflows, from simulations and measurements to well-supported conclusions, and from specialist detail to clear technical communication for researchers, engineers, students, and decision-makers.
 
@@ -12,7 +12,7 @@ I translate complex physical and industrial problems into models, software, data
 - **Theory-to-software execution:** the ability to formulate a model, implement computational tools, analyze results, visualize behavior, and document a reproducible path from assumptions to conclusions.
 - **Verification and evidence discipline:** careful review of equations, units, discretization choices, numerical consistency, model assumptions, provenance, and the limits of available evidence.
 - **Research, industry, and teaching perspective:** international research appointments, full-time faculty work, industrial projects, consulting, curriculum development, and technical mentoring.
-- **Quantitative judgment:** data analysis, applied statistics, design of experiments, statistical process control, Six Sigma, and evidence-based industrial decision support.
+- **Quantitative judgment:** Certified Six Sigma Black Belt with experience in applied statistics, design of experiments, statistical process control, process improvement, and evidence-based industrial decision support.
 - **Cross-cultural technical communication:** professional activity across Japan and Mexico, working in Spanish, English, and Japanese and communicating across disciplines, institutions, and cultures.
 
 ## Areas of work
@@ -42,7 +42,8 @@ Each project documents its assumptions, reproducibility path, and validation bou
 
 ## Research, industry, and teaching background
 
-- PhD in Mathematics, Kyushu University; M.Sc. in Applied Mathematics; undergraduate background in Applied Mathematics and Physics.
+- PhD in Mathematics, Kyushu University; M.Sc. in Applied Mathematics; B.Sc. degrees in Applied Mathematics and Physics.
+- Peer-reviewed research spanning turbulent jets and atomization, numerical methods, and dynamical systems.
 - Collaborating Researcher / National Researcher (SNII-SECIHTI), UABC Ensenada Campus, Ensenada, Mexico.
 - Previous research experience at Kyushu University and Osaka University in computational fluid mechanics, industrial mathematical modeling, biomedical simulation, and active-fluid systems.
 - Former Full-Time Professor in Applied Mathematics and Data Science at UABC, with teaching and mentoring across numerical methods, scientific computing, simulation, data science, and applied mathematics.
