@@ -1,4 +1,4 @@
-# Fermín Franco-Medrano
+# Fermín Franco
 
 **Computational scientist and applied mathematician working across physical modeling, scientific software, data/AI, and technical decision-making.**
 
