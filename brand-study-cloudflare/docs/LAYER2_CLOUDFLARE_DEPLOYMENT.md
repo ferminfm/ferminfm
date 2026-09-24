@@ -16,10 +16,10 @@ Do not use the failed GitHub Action as evidence of an application build failure.
 
 ## Preferred execution channel
 
-Use the existing local Layer 2 Codex environment because it already has the `cloudflare-api` MCP configured. If MCP startup says OAuth reauthentication is required, perform:
+Use the existing local Layer 2 Codex environment because it already has the `cloudflare` MCP configured. If MCP startup says OAuth reauthentication is required, perform:
 
 ```bash
-codex mcp login cloudflare-api
+codex mcp login cloudflare
 ```
 
 This OAuth approval is the only human-authentication step that may need the user in the browser.
