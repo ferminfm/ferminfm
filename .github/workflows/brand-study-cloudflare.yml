@@ -2,12 +2,6 @@ name: Deploy brand study to Cloudflare
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - brand-study-cloudflare-20260923
-    paths:
-      - 'brand-study-cloudflare/**'
-      - '.github/workflows/brand-study-cloudflare.yml'
 
 jobs:
   deploy:
