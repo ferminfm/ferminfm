@@ -16,21 +16,19 @@ Do not add survey-answer tags such as a participant's preferred name.
 
 ## Neutral URLs
 
-Replace `<BASE>` with the deployed Worker hostname.
-
 Spanish technical network:
 
-`<BASE>/es?src=ghl-whatsapp&medium=whatsapp&campaign=name-study-v1&cohort=technical`
+`https://professional-communication-study.professional-research.workers.dev/es?src=ghl-whatsapp&medium=whatsapp&campaign=name-study-v1&cohort=technical`
 
 Spanish/English email network:
 
-`<BASE>/es?src=ghl-email&medium=email&campaign=name-study-v1&cohort=general`
+`https://professional-communication-study.professional-research.workers.dev/es?src=ghl-email&medium=email&campaign=name-study-v1&cohort=general`
 
-`<BASE>/en?src=ghl-email&medium=email&campaign=name-study-v1&cohort=industry`
+`https://professional-communication-study.professional-research.workers.dev/en?src=ghl-email&medium=email&campaign=name-study-v1&cohort=industry`
 
 Japanese network:
 
-`<BASE>/ja?src=ghl-email&medium=email&campaign=name-study-v1&cohort=academic`
+`https://professional-communication-study.professional-research.workers.dev/ja?src=ghl-email&medium=email&campaign=name-study-v1&cohort=academic`
 
 Do **not** append a GHL contact ID or other personal identifier to these URLs.
 
